@@ -1,0 +1,20 @@
+.env
+*.pyc
+__pycache__/
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+logs/
+*.log
+*.json.bak
+media_cache/
+.DS_Store
+Thumbs.db
+configs/platforms.yaml
+# Keep example file
+!configs/platforms.yaml.example
